@@ -1,0 +1,5 @@
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\ClassLibrary1\bin\Debug\LibDDD.Domain.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\ClassLibrary1\bin\Debug\LibDDD.Domain.pdb
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\ClassLibrary1\obj\Debug\LibDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\ClassLibrary1\obj\Debug\LibDDD.Domain.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\ClassLibrary1\obj\Debug\LibDDD.Domain.pdb

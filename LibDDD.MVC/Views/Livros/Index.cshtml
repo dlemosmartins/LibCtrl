@@ -1,0 +1,57 @@
+﻿@model IEnumerable<LibDDD.MVC.Models.LivroViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Inserir Livros", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Observacao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+        <th>
+            @Html.DisplayName("Editora")
+        </th>
+        <th>
+            @Html.DisplayName("Autor")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Observacao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ativo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Editora.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Autor.Descricao)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.LivroID }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.LivroID }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.LivroID })
+        </td>
+    </tr>
+}
+
+</table>

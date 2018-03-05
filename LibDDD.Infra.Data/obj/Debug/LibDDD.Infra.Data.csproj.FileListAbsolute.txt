@@ -1,0 +1,13 @@
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\LibDDD.Infra.Data.dll.config
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\LibDDD.Infra.Data.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\LibDDD.Infra.Data.pdb
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\LibDDD.Domain.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\LibDDD.Domain.pdb
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\obj\Debug\LibDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\obj\Debug\LibDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\obj\Debug\LibDDD.Infra.Data.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Infra.Data\obj\Debug\LibDDD.Infra.Data.pdb

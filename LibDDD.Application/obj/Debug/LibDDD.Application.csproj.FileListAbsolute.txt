@@ -1,0 +1,8 @@
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\bin\Debug\LibDDD.Application.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\bin\Debug\LibDDD.Application.pdb
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\bin\Debug\LibDDD.Domain.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\bin\Debug\LibDDD.Domain.pdb
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\obj\Debug\LibDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\obj\Debug\LibDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\obj\Debug\LibDDD.Application.dll
+C:\Users\lemosmartins.danilo\Documents\Projetos\DefaulDDD_\LibDDD.Application\obj\Debug\LibDDD.Application.pdb
